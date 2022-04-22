@@ -7,3 +7,5 @@ Krav:
 vRP
 Mythic_notify
 mhacking
+
+Min shop: https://discord.gg/K7Ez7vYxk2
